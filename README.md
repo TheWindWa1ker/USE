@@ -443,4 +443,3 @@ xml格式如下, bus和device除填lsusb中查到的结果, 保存后virt-manage
 ```
 
 ![](./images/hide.jpg)
-
